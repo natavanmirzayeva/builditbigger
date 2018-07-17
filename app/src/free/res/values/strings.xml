@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="banner_ad_unit_id">ca-app-pub-3284261743888939/9475493980</string>
+    <string name="anecdote">Let\'s read an anecdote! :)</string>
+    <string name="build_it_bigger">Build It Bigger</string>
+</resources>

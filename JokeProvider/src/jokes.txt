@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "How are coffee beans like kids?",
+    "answer": "They’re always getting grounded!"
+  },
+  {
+    "id": 2,
+    "question": "How does a tech guy drink coffee?",
+    "answer": "He installs Java!"
+  },
+  {
+    "id": 3,
+    "question": "How do you keep intruders out of a castle made of cheese?",
+    "answer": "Moatzarella"
+  },
+  {
+    "id": 4,
+    "question": "How does a hurricane see?",
+    "answer": "With its eye"
+  },
+]
