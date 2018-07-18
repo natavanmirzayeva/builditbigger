@@ -4,6 +4,8 @@ import com.google.gson.Gson;
 import java.io.File;
 import java.io.FileReader;
 import java.io.Reader;
+import java.net.URL;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -17,7 +19,7 @@ public class JokeProvider
         List<Joke> jokes = new ArrayList<>() ;
 
         try {
-            File file = new File("C:\\Users\\mehseti\\Downloads\\ud867-master\\ud867-master\\builditbigger\\JokeProvider\\src\\jokes.txt");
+            File file = new File(".\\JokeProvider\\src\\jokes.txt");
             reader = new FileReader(file);
             Gson gson = new Gson();
             Joke[] joke = gson.fromJson(reader, Joke[].class);
